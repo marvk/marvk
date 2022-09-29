@@ -1,4 +1,13 @@
-### Hi there 👋
+### Oh hi there, I'm Marvin 🌌
+
+* 10 years of experience with the JVM
+* [Recent Kotlin convert](https://i.imgur.com/4yPipLw.png)
+* [Avid Stackexchange user](https://stackexchange.com/users/3595528/marv?tab=accounts)
+* Sometimes working on [generative art](https://openprocessing.org/user/41086?view=sketches&o=10)
+* Interested in Aviation and Flight Simulation
+* Software Consultant at [IITS Consulting](https://github.com/iits-consulting) working with Kotlin and Spring
+  * Psst! Looking for a 100% remote job with great benefits working with the JVM, .NET, JS or DevOps? [Lets have a chat!](mailto:marvknet@gmail.com)
+
 
 <!--
 **marvk/marvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

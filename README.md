@@ -7,7 +7,6 @@
 * Sometimes working on [generative art](https://openprocessing.org/user/41086?view=sketches&o=10)
 * Interested in Aviation and Flight Simulation
 * Software Consultant at [IITS Consulting](https://github.com/iits-consulting) working with Kotlin and Spring
-  * Psst! Looking for a 100% remote job with great benefits working with the JVM, .NET, JS or DevOps? [Lets have a chat!](mailto:marvknet@gmail.com)
 
 
 <!--

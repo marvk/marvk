@@ -7,6 +7,8 @@
 * Sometimes working on [generative art](https://openprocessing.org/user/41086?view=sketches&o=10)
 * Interested in Aviation and Flight Simulation
 * Software Consultant at [IITS Consulting](https://github.com/iits-consulting) working with Kotlin and Spring
+* Bad at chess, marginally less bad at writing a [chess engine](https://github.com/marvk/chess)
+* Advent of Code: [2021](https://github.com/marvk/aoc-2021) (Kotlin), [2022](https://github.com/marvk/aoc-2022) (Rust)
 
 
 <!--

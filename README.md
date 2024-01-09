@@ -3,12 +3,12 @@
 * 10 years of experience with the JVM
 * M.Sc. Computer Science
 * [Recent Kotlin convert](https://i.imgur.com/4yPipLw.png)
-* [Avid Stackexchange user](https://stackexchange.com/users/3595528/marv?tab=accounts)
+* [Regular Stackexchange user](https://stackexchange.com/users/3595528/marv?tab=accounts)
 * Sometimes working on [generative art](https://openprocessing.org/user/41086?view=sketches&o=10)
-* Interested in Aviation and Flight Simulation
+* Interested in aviation and flight simulation
 * Software Consultant at [IITS Consulting](https://github.com/iits-consulting) working with Kotlin and Spring
-* Bad at chess, marginally less bad at writing a [chess engine](https://github.com/marvk/chess)
-* Advent of Code: [2021](https://github.com/marvk/aoc-2021) (Kotlin), [2022](https://github.com/marvk/aoc-2022) (Rust)
+* Bad at chess, marginally less bad at writing [a chess engine](https://github.com/marvk/chess) or [two](https://github.com/marvk/inkayaku)
+* Advent of Code: [2021](https://github.com/marvk/aoc-2021) (Kotlin), [2022](https://github.com/marvk/aoc-2022) (Rust), [2023](https://github.com/marvk/aoc-2023) (Rust)
 
 
 <!--
